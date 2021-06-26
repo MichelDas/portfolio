@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+I Made this project for my portfolio.
+Used Bootstrap template from DevFlio and hosted in Hiroku.
 
-Template Name: DevFolio
+Profile URL: https://michel-profile.herokuapp.com
+
 Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
